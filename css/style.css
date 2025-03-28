@@ -65,3 +65,9 @@ body {
   color: black;
   border: 2px solid black;
 }
+
+
+/* 既存のカタログの余白調整 */
+#catalog {
+  margin-top: 120px; /* ダウンロードボタン＋ズームコントロール分の余白 */
+}
